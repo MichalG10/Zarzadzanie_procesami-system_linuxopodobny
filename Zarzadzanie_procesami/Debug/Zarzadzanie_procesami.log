@@ -1,0 +1,11 @@
+﻿  Zarzadca_procesami.cpp
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(444): warning C4129: 'N': unrecognized character escape sequence
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(466): warning C4018: '<': signed/unsigned mismatch
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(479): warning C4018: '<': signed/unsigned mismatch
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(244): warning C4715: 'PCB::waitpid': not all control paths return a value
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(431): warning C4715: 'PCB::exit': not all control paths return a value
+c:\users\michał\documents\visual studio 2015\projects\zarzadzanie_procesami\zarzadzanie_procesami\zarzadca_procesami.cpp(662): warning C4715: 'PCB::kill': not all control paths return a value
+  Zarzadzanie_procesami.vcxproj -> c:\users\michał\documents\visual studio 2015\Projects\Zarzadzanie_procesami\Debug\Zarzadzanie_procesami.exe
